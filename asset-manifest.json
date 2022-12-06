@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loop-ui/static/css/main.57c4c934.css",
+    "main.js": "/loop-ui/static/js/main.6b45126f.js",
+    "index.html": "/loop-ui/index.html",
+    "main.57c4c934.css.map": "/loop-ui/static/css/main.57c4c934.css.map",
+    "main.6b45126f.js.map": "/loop-ui/static/js/main.6b45126f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57c4c934.css",
+    "static/js/main.6b45126f.js"
+  ]
+}
